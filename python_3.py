@@ -6,3 +6,4 @@ if hr > 40:
 else:
     pay = hr * rt
 print 'Pay:', pay
+print "end"
